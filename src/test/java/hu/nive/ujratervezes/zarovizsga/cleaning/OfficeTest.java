@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.zarovizsga.cleaning;
+package hu.nive.ujratervezes.zarovizsga.cleaning;
 
 import org.junit.jupiter.api.Test;
 
@@ -17,4 +17,4 @@ class OfficeTest {
         Office office = new Office("Budapest, Fo ut. 2.", 300, 5);
         assertEquals(150_000, office.clean());
     }
-}*/
+}
